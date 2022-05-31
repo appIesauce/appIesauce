@@ -1,5 +1,3 @@
-### Hi, I'm Lyssa 👋
-
 ### About me ❤️
 
 ```lua
