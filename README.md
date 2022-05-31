@@ -8,7 +8,5 @@ local Lyssa = {
 }
 ```
 
-> Support me
-
-[Lovense Affiliate Link](https://www.lovense.com/r/s8qaen)
+> Support me: [Lovense Affiliate Link](https://www.lovense.com/r/s8qaen)
 
