@@ -1,10 +1,10 @@
 ### About me ❤️
 
 ```lua
-local Lyssa = {
+local About_Me = {
     ["Pronouns"] = "she/her",
     ["Languages"] = ["NodeJS","C++","Lua"],
-    ["Contact"] = "Lyssa#1337"
+    ["Contact"] = "Lunatic#7777"
 }
 ```
 
