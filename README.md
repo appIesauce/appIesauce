@@ -4,7 +4,7 @@
 local About_Me = {
     ["Pronouns"] = "she/her",
     ["Languages"] = ["NodeJS","C++","Lua"],
-    ["Contact"] = "Lunatic#7777"
+    ["Contact"] = "lunatic<3#7777"
 }
 ```
 
