@@ -1,7 +1,7 @@
 ### About me ❤️
 
 ```lua
-local About_Me = { -- I love applesauce :3
+local About_Me = { -- I love applesauce & minions :3
     ["Pronouns"] = "she/her",
     ["Languages"] = ["NodeJS","C++","Lua"],
     ["Contact"] = "paris#1000"
