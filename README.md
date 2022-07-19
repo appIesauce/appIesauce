@@ -4,7 +4,7 @@
 local About_Me = { -- I love applesauce & minions :3
     ["Pronouns"] = "she/her",
     ["Languages"] = ["NodeJS","C++","Lua"],
-    ["Contact"] = "jasmine#1337"
+    ["Contact"] = "mommy#4000"
 }
 ```
 
