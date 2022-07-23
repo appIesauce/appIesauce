@@ -1,10 +1,10 @@
 ### About me ❤️
 
 ```lua
-local About_Me = { -- I love applesauce & minions :3
+local About_Me = {
     ["Pronouns"] = "she/her",
-    ["Languages"] = ["NodeJS","C++","Lua"],
-    ["Contact"] = "jinx#9000"
+    ["Languages"] = ["NodeJS","Lua","Python"],
+    ["Contact"] = "jinx#1234"
 }
 ```
 
